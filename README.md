@@ -37,8 +37,6 @@ You can install the web application to your desktop by clicking the Install butt
 
 A service worker is registered using Workbox when the application loads. This service worker pre-caches static assets, ensuring the application can function offline and load faster on subsequent visits.
 
-## Deployment Instructions
+## Deployment 
 
-The application includes build scripts tailored for deployment on Render, ensuring a smooth and efficient deployment process for your webpack application.
-
-By following these guidelines, you can fully utilize the features and capabilities of this advanced web-based text editor.
+https://webtexteditor-5t8d.onrender.com/
